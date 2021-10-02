@@ -1,26 +1,26 @@
 # RL Benchmarks: A Historic Recollection of Reinforcement Learning Benchmarks
 
-## Pre-Deep Learning Era (1993-2014)
+## Pre-Deep Learning Era (2009-2014)
 
 1. Adams, Sam, Itmar Arel, Joscha Bach, Robert Coop, Rod Furlan, Ben Goertzel, J. Storrs Hall, et al. 2012. ___“Mapping the Landscape of Human-Level Artificial General Intelligence.”___ AI Magazine 33 (1): 25–42. [[paper]](https://doi.org/10.1609/aimag.v33i1.2322)
 
-1. Bellemare, Marc G., Yavar Naddaf, Joel Veness, and Michael Bowling. 2012. ___“The Arcade Learning Environment: An Evaluation Platform for General Agents.”___ arXiv [cs.AI]. arXiv. [[paper]](http://arxiv.org/abs/1207.4708)
-
-1. Coleman, Oliver J., Alan D. Blair, and Jeff Clune. 2014. ___“Automated Generation of Environments to Test the General Learning Capabilities of AI Agents.”___ In Proceedings of the 2014 Annual Conference on Genetic and Evolutionary Computation, 161–68. GECCO ’14. New York, NY, USA: Association for Computing Machinery. [[paper]](https://doi.org/10.1145/2576768.2598257)
+1. Tanner, Brian, and Adam White. 2009. __“RL-Glue: Language-Independent Software for Reinforcement-Learning Experiments.”__ Journal of Machine Learning Research: JMLR 10 (74): 2133–36. [[paper]](http://jmlr.org/papers/v10/tanner09a.html)
 
 1. Laird, John E., and Robert E. Wray III. 2010. ___“Cognitive Architecture Requirements for Achieving AGI.”___ In Proceedings of the 3d Conference on Artificial General Intelligence (AGI-10). Paris, France: Atlantis Press. [[paper]](https://doi.org/10.2991/agi.2010.2)
+
+1. Whiteson, Shimon, Brian Tanner, and Adam White. 2010. __“The Reinforcement Learning Competitions.”__ In AI Magazine. [[paper]](http://citeseerx.ist.psu.edu/viewdoc/citations;jsessionid=B401441AFD41A5C593498EFD3ACB31EF?doi=10.1.1.634.5825)
+
+1. Whiteson, Shimon, Brian Tanner, Matthew E. Taylor, and Peter Stone. 2011. ___“Protecting against Evaluation Overfitting in Empirical Reinforcement Learning.”___ In 2011 IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (ADPRL). IEEE. [[paper]](https://doi.org/10.1109/adprl.2011.5967363)
+
+1. Schaul, Tom, Julian Togelius, and Jürgen Schmidhuber. 2011. __“Measuring Intelligence through Games.”__ arXiv. [[paper]](http://arxiv.org/abs/1109.1314)
+
+1. Bellemare, Marc G., Yavar Naddaf, Joel Veness, and Michael Bowling. 2012. ___“The Arcade Learning Environment: An Evaluation Platform for General Agents.”___ arXiv [cs.AI]. arXiv. [[paper]](http://arxiv.org/abs/1207.4708)
 
 1. Riedmiller, Martin, Manuel Blum, Thomas Lampe, Roland Hafner, Sascha Lange, and Stephan Timmer. 2013. ___CLSquare: Closed Loop Simulation System.___ [[paper]](https://ml.informatik.uni-freiburg.de/former/research/clsquare.html)
 
 1. Schaul, Tom. 2013. ___“A Video Game Description Language for Model-Based or Interactive Learning.”___ In 2013 IEEE Conference on Computational Inteligence in Games (CIG). IEEE.  [[paper]](https://doi.org/10.1109/cig.2013.6633610)
 
-1. Schaul, Tom, Julian Togelius, and Jürgen Schmidhuber. 2011. __“Measuring Intelligence through Games.”__ arXiv. [[paper]](http://arxiv.org/abs/1109.1314)
-
-1. Tanner, Brian, and Adam White. 2009. __“RL-Glue: Language-Independent Software for Reinforcement-Learning Experiments.”__ Journal of Machine Learning Research: JMLR 10 (74): 2133–36. [[paper]](http://jmlr.org/papers/v10/tanner09a.html)
-
-1. Whiteson, Shimon, Brian Tanner, Matthew E. Taylor, and Peter Stone. 2011. ___“Protecting against Evaluation Overfitting in Empirical Reinforcement Learning.”___ In 2011 IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (ADPRL). IEEE. [[paper]](https://doi.org/10.1109/adprl.2011.5967363)
-
-1. Whiteson, Shimon, Brian Tanner, and Adam White. 2010. __“The Reinforcement Learning Competitions.”__ In AI Magazine. [[paper]](http://citeseerx.ist.psu.edu/viewdoc/citations;jsessionid=B401441AFD41A5C593498EFD3ACB31EF?doi=10.1.1.634.5825)
+1. Coleman, Oliver J., Alan D. Blair, and Jeff Clune. 2014. ___“Automated Generation of Environments to Test the General Learning Capabilities of AI Agents.”___ In Proceedings of the 2014 Annual Conference on Genetic and Evolutionary Computation, 161–68. GECCO ’14. New York, NY, USA: Association for Computing Machinery. [[paper]](https://doi.org/10.1145/2576768.2598257)
 
 ## The Deep Reinforcement Learning Era (2015-*)
 
