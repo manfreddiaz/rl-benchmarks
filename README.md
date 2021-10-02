@@ -4,9 +4,9 @@
 Adams, S., Arel, I., Bach, J., Coop, R., Furlan, R., Goertzel, B., Hall, J. S., Samsonovich, A., Scheutz, M., Schlesinger, M., Shapiro, S. C., & Sowa, J. (2012). Mapping the landscape of human-level artificial general intelligence. AI Magazine, 33(1), 25–42. 
 [[paper]](https://doi.org/10.1609/aimag.v33i1.2322)
 
-Agarwal, R., Schuurmans, D., & Norouzi, M. (2019). An Optimistic Perspective on Offline Reinforcement Learning. In arXiv [cs.LG]. arXiv. http://arxiv.org/abs/1907.04543
+Agarwal, R., Schuurmans, D., & Norouzi, M. (2019). An Optimistic Perspective on Offline Reinforcement Learning. In arXiv [cs.LG]. arXiv. [[paper]](http://arxiv.org/abs/1907.04543)
 
-Ahn, M., Zhu, H., Hartikainen, K., Ponte, H., Gupta, A., Levine, S., & Kumar, V. (2019). ROBEL: Robotics Benchmarks for Learning with Low-Cost Robots. In arXiv [cs.RO]. arXiv. http://arxiv.org/abs/1909.11639
+Ahn, M., Zhu, H., Hartikainen, K., Ponte, H., Gupta, A., Levine, S., & Kumar, V. (2019). ROBEL: Robotics Benchmarks for Learning with Low-Cost Robots. In arXiv [cs.RO]. arXiv. [[paper]](http://arxiv.org/abs/1909.11639)
 
 Beattie, C., Leibo, J. Z., Teplyashin, D., Ward, T., Wainwright, M., Küttler, H., Lefrancq, A., Green, S., Valdés, V., Sadik, A., Schrittwieser, J., Anderson, K., York, S., Cant, M., Cain, A., Bolton, A., Gaffney, S., King, H., Hassabis, D., … Petersen, S. (2016). DeepMind Lab. In arXiv [cs.AI]. arXiv. http://arxiv.org/abs/1612.03801
 
