@@ -96,7 +96,7 @@
 
 1. Perez-Liebana, Diego, Spyridon Samothrakis, Julian Togelius, Tom Schaul, Simon M. Lucas, Adrien Couëtoux, Jerry Lee, Chong-U Lim, and Tommy Thompson. 2016. ___“The 2014 General Video Game Playing Competition.”___ IEEE Transactions on Computational Intelligence in AI and Games 8 (3): 229–43. [[paper]](https://doi.org/10.1109/TCIAIG.2015.2402393).
 
-1. Platanios, Emmanouil Antonios, Abulhair Saparov, and Tom Mitchell. 2020. “Jelly Bean World: A Testbed for Never-Ending Learning.” [[paper]](https://www.semanticscholar.org/paper/665fbb2645d1213e7eb95d870acd2ed75c74d1a5).
+1. Platanios, Emmanouil Antonios, Abulhair Saparov, and Tom Mitchell. 2020. ___“Jelly Bean World: A Testbed for Never-Ending Learning.”___ [[paper]](https://www.semanticscholar.org/paper/665fbb2645d1213e7eb95d870acd2ed75c74d1a5).
 
 1. Rajeswaran, Aravind, Vikash Kumar, Abhishek Gupta, Giulia Vezzani, John Schulman, Emanuel Todorov, and Sergey Levine. 2017. ___“Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations.”___ arXiv [cs.LG]. arXiv. [[paper]](http://arxiv.org/abs/1709.10087).
 
