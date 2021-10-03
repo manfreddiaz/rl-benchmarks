@@ -2,8 +2,6 @@
 
 ## Pre-Deep Learning Era (2009-2014)
 
-1. Adams, Sam, Itmar Arel, Joscha Bach, Robert Coop, Rod Furlan, Ben Goertzel, J. Storrs Hall, et al. 2012. ___“Mapping the Landscape of Human-Level Artificial General Intelligence.”___ AI Magazine 33 (1): 25–42. [[paper]](https://doi.org/10.1609/aimag.v33i1.2322)
-
 1. Tanner, Brian, and Adam White. 2009. __“RL-Glue: Language-Independent Software for Reinforcement-Learning Experiments.”__ Journal of Machine Learning Research: JMLR 10 (74): 2133–36. [[paper]](http://jmlr.org/papers/v10/tanner09a.html)
 
 1. Laird, John E., and Robert E. Wray III. 2010. ___“Cognitive Architecture Requirements for Achieving AGI.”___ In Proceedings of the 3d Conference on Artificial General Intelligence (AGI-10). Paris, France: Atlantis Press. [[paper]](https://doi.org/10.2991/agi.2010.2)
@@ -15,6 +13,8 @@
 1. Schaul, Tom, Julian Togelius, and Jürgen Schmidhuber. 2011. __“Measuring Intelligence through Games.”__ arXiv. [[paper]](http://arxiv.org/abs/1109.1314)
 
 1. Bellemare, Marc G., Yavar Naddaf, Joel Veness, and Michael Bowling. 2012. ___“The Arcade Learning Environment: An Evaluation Platform for General Agents.”___ arXiv [cs.AI]. arXiv. [[paper]](http://arxiv.org/abs/1207.4708)
+
+1. Adams, Sam, Itmar Arel, Joscha Bach, Robert Coop, Rod Furlan, Ben Goertzel, J. Storrs Hall, et al. 2012. ___“Mapping the Landscape of Human-Level Artificial General Intelligence.”___ AI Magazine 33 (1): 25–42. [[paper]](https://doi.org/10.1609/aimag.v33i1.2322)
 
 1. Riedmiller, Martin, Manuel Blum, Thomas Lampe, Roland Hafner, Sascha Lange, and Stephan Timmer. 2013. ___CLSquare: Closed Loop Simulation System.___ [[paper]](https://ml.informatik.uni-freiburg.de/former/research/clsquare.html)
 
